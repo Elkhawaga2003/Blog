@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\New folder\\myWeb_side\\challenges\\Blog\\Blog\\wwwroot\\ProfileImage\\0b75a64c0ae84f25abd25a90d738b652.webp",
+      "PackagePath": "staticwebassets\\ProfileImage\\0b75a64c0ae84f25abd25a90d738b652.webp"
+    },
+    {
+      "Id": "D:\\New folder\\myWeb_side\\challenges\\Blog\\Blog\\wwwroot\\ProfileImage\\7655eef1bcf1403da43580e4eef6ff41.jpeg",
+      "PackagePath": "staticwebassets\\ProfileImage\\7655eef1bcf1403da43580e4eef6ff41.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Blog.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Blog.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Blog.props",
+      "PackagePath": "build\\Blog.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Blog.props",
+      "PackagePath": "buildMultiTargeting\\Blog.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Blog.props",
+      "PackagePath": "buildTransitive\\Blog.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

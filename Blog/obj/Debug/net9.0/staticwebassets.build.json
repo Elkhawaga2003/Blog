@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "Hash": "+Mhdrgcd0eNMHNu5/IdY1QvP7v5nTCbCmr3HWPdc5Hc=",
+  "Source": "Blog",
+  "BasePath": "_content/Blog",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Blog\\wwwroot",
+      "Source": "Blog",
+      "ContentRoot": "D:\\New folder\\myWeb_side\\challenges\\Blog\\Blog\\wwwroot\\",
+      "BasePath": "_content/Blog",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\New folder\\myWeb_side\\challenges\\Blog\\Blog\\wwwroot\\ProfileImage\\0b75a64c0ae84f25abd25a90d738b652.webp",
+      "SourceId": "Blog",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\New folder\\myWeb_side\\challenges\\Blog\\Blog\\wwwroot\\",
+      "BasePath": "_content/Blog",
+      "RelativePath": "ProfileImage/0b75a64c0ae84f25abd25a90d738b652#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xc357ia7kh",
+      "Integrity": "vxAnKwkGwsOLPG6P6qkHnk4YwbqmP2vOWiaisAEEGA4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProfileImage\\0b75a64c0ae84f25abd25a90d738b652.webp"
+    },
+    {
+      "Identity": "D:\\New folder\\myWeb_side\\challenges\\Blog\\Blog\\wwwroot\\ProfileImage\\7655eef1bcf1403da43580e4eef6ff41.jpeg",
+      "SourceId": "Blog",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\New folder\\myWeb_side\\challenges\\Blog\\Blog\\wwwroot\\",
+      "BasePath": "_content/Blog",
+      "RelativePath": "ProfileImage/7655eef1bcf1403da43580e4eef6ff41#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rnounmhg6l",
+      "Integrity": "V3crpak8k1J569sxJnG+yRtQum7x+C2ZlY4x9hej3Gw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProfileImage\\7655eef1bcf1403da43580e4eef6ff41.jpeg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "ProfileImage/0b75a64c0ae84f25abd25a90d738b652.webp",
+      "AssetFile": "D:\\New folder\\myWeb_side\\challenges\\Blog\\Blog\\wwwroot\\ProfileImage\\0b75a64c0ae84f25abd25a90d738b652.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5068"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vxAnKwkGwsOLPG6P6qkHnk4YwbqmP2vOWiaisAEEGA4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 06 Aug 2025 11:22:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vxAnKwkGwsOLPG6P6qkHnk4YwbqmP2vOWiaisAEEGA4="
+        }
+      ]
+    },
+    {
+      "Route": "ProfileImage/0b75a64c0ae84f25abd25a90d738b652.xc357ia7kh.webp",
+      "AssetFile": "D:\\New folder\\myWeb_side\\challenges\\Blog\\Blog\\wwwroot\\ProfileImage\\0b75a64c0ae84f25abd25a90d738b652.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5068"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vxAnKwkGwsOLPG6P6qkHnk4YwbqmP2vOWiaisAEEGA4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 06 Aug 2025 11:22:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xc357ia7kh"
+        },
+        {
+          "Name": "label",
+          "Value": "ProfileImage/0b75a64c0ae84f25abd25a90d738b652.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vxAnKwkGwsOLPG6P6qkHnk4YwbqmP2vOWiaisAEEGA4="
+        }
+      ]
+    },
+    {
+      "Route": "ProfileImage/7655eef1bcf1403da43580e4eef6ff41.jpeg",
+      "AssetFile": "D:\\New folder\\myWeb_side\\challenges\\Blog\\Blog\\wwwroot\\ProfileImage\\7655eef1bcf1403da43580e4eef6ff41.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3036"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V3crpak8k1J569sxJnG+yRtQum7x+C2ZlY4x9hej3Gw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 20:09:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-V3crpak8k1J569sxJnG+yRtQum7x+C2ZlY4x9hej3Gw="
+        }
+      ]
+    },
+    {
+      "Route": "ProfileImage/7655eef1bcf1403da43580e4eef6ff41.rnounmhg6l.jpeg",
+      "AssetFile": "D:\\New folder\\myWeb_side\\challenges\\Blog\\Blog\\wwwroot\\ProfileImage\\7655eef1bcf1403da43580e4eef6ff41.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3036"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V3crpak8k1J569sxJnG+yRtQum7x+C2ZlY4x9hej3Gw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Aug 2025 20:09:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rnounmhg6l"
+        },
+        {
+          "Name": "label",
+          "Value": "ProfileImage/7655eef1bcf1403da43580e4eef6ff41.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-V3crpak8k1J569sxJnG+yRtQum7x+C2ZlY4x9hej3Gw="
+        }
+      ]
+    }
+  ]
+}
