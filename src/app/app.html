@@ -1,0 +1,14 @@
+<app-header></app-header>
+
+<div class="flex h-screen">
+    <!-- Sidebar -->
+    <app-side-bar class="w-64 border-r border-gray-200 bg-white"></app-side-bar>
+
+    <!-- Main Content -->
+    <div class="flex-1 p-4 overflow-y-auto">
+        <router-outlet></router-outlet>
+    </div>
+
+    <!-- Notification Sidebar -->
+    <app-NotificationSidebar class="w-80 border-l border-gray-200 bg-white"></app-NotificationSidebar>
+</div>

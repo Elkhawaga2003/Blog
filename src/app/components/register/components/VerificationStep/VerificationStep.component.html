@@ -1,0 +1,8 @@
+<div class="flex flex-col items-center justify-center h-screen">
+  <div class="step-container text-center">
+    <h2 class="text-xl font-semibold mb-4">Enter your code</h2>
+    <input type="text" [(ngModel)]="code" placeholder="Enter your email" class="border rounded p-2 w-64 mb-4" />
+    <button class="bg-blue-500 text-white px-6 py-2 rounded hover:bg-blue-600" (click)="nextStep()">Send Verification
+      Code</button>
+  </div>
+</div>
