@@ -1,0 +1,11 @@
+<!-- register.component.html -->
+<div class="mt-8 w-full max-w-md mx-auto p-4 bg-white rounded shadow flex flex-col gap-6">
+  <ng-container [ngSwitch]="step">
+    <app-NameStep *ngSwitchCase="1" (next)="nextStep($event)"></app-NameStep>
+    <app-EmailStep *ngSwitchCase="2" (next)="nextStep($event)"></app-EmailStep>
+    <app-VerificationStep *ngSwitchCase="3" [email]="formData.email" (next)="nextStep($event)">
+    </app-VerificationStep> <app-PasswordStep *ngSwitchCase="4" (next)="nextStep($event)"></app-PasswordStep>
+    <app-ProfileImageStep *ngSwitchCase="5" (next)="nextStep($event)"></app-ProfileImageStep>
+    <div *ngSwitchDefault>Redirecting to home...</div>
+  </ng-container>
+</div>
